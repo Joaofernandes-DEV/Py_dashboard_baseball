@@ -8,7 +8,7 @@
 
 Veja abaixo uma demonstração do funcionamento do **Py Dashboard Baseball**:
 
-<video src="./video/Reprodução_dashboard_baseball.mp4" controls width="100%"></video>
+[🎥 Clique aqui para assistir à demonstração](./video/Reprodução_dashboard_baseball.mp4)
 
 ---
 
