@@ -41,16 +41,15 @@ Este projeto permitiu explorar:
 
 ## 📈 Estrutura do Projeto  
 ```plaintext
-Py_dashboard_baseball/
+Dash_baseball/
 │
-├── data/                      # Base de dados utilizada
-│   └── baseball.csv           # Dados de beisebol
+├── video/                     # Pasta contendo vídeos relacionados ao projeto
+│   └── Reprodução_dashboard_baseball.mp4  # Vídeo de demonstração
 │
-├── pages/                     # Páginas adicionais do dashboard (se houver)
-│
-├── app.py                     # Arquivo principal do projeto
-├── requirements.txt           # Dependências do projeto
-└── README.md                  # Documentação do projeto
+├── app.py                     # Arquivo principal do projeto (dashboard Streamlit)
+├── baseball.csv               # Base de dados utilizada no dashboard
+├── README.md                  # Documentação do projeto
+
 ```
 
 ---
